@@ -1,0 +1,1 @@
+INSERT INTO s270233.delivery_places (id, address, client_num, location_id) VALUES (1, 'Бухарестская ул., 118 корпус 1', 101, 1);

@@ -1,0 +1,1 @@
+INSERT INTO s270233.clients (id, delivery_place_id, human_id, subscription_id, user_id) VALUES (1, 1, 2, 1, 1);

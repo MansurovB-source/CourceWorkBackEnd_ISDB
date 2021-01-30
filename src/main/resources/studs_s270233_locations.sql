@@ -1,0 +1,1 @@
+INSERT INTO s270233.locations (id, city, country) VALUES (1, 'Санкт-Петербург', 'Россия');

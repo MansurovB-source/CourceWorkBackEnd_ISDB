@@ -1,0 +1,2 @@
+INSERT INTO s270233.humans (id, address, birth_date, contacts, name, surname) VALUES (1, 'вяземский переулок 5/7', '1988-01-13 23:57:57.000000', 'ivan@gmail.com', 'Иван', 'Иванов');
+INSERT INTO s270233.humans (id, address, birth_date, contacts, name, surname) VALUES (2, '13 Микрорайон, Дом 15', '2000-04-19 04:00:00.000000', 'bekha.m2000.bm@gmail.com', 'Бехруз', 'Мансуров');

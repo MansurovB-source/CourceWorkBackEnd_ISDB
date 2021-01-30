@@ -1,0 +1,1 @@
+INSERT INTO s270233.providers_payments (id, dept_time, paying, payment_date, sum, factory_id, provider_id) VALUES (1, '2021-01-14 00:00:00.000000', false, null, 31709, 1, 1);

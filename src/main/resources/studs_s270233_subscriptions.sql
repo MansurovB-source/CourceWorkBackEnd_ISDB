@@ -1,0 +1,1 @@
+INSERT INTO s270233.subscriptions (id, discount, name, price) VALUES (1, 15, 'basic', 600);

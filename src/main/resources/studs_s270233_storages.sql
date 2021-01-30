@@ -1,0 +1,16 @@
+INSERT INTO s270233.storages (id, factory_id, sausage_id, sausages_weight) VALUES (13, 1, 13, 500000);
+INSERT INTO s270233.storages (id, factory_id, sausage_id, sausages_weight) VALUES (14, 1, 14, 500000);
+INSERT INTO s270233.storages (id, factory_id, sausage_id, sausages_weight) VALUES (15, 1, 15, 500000);
+INSERT INTO s270233.storages (id, factory_id, sausage_id, sausages_weight) VALUES (16, 1, 16, 500000);
+INSERT INTO s270233.storages (id, factory_id, sausage_id, sausages_weight) VALUES (5, 1, 5, 499998);
+INSERT INTO s270233.storages (id, factory_id, sausage_id, sausages_weight) VALUES (6, 1, 6, 499998);
+INSERT INTO s270233.storages (id, factory_id, sausage_id, sausages_weight) VALUES (7, 1, 7, 499999);
+INSERT INTO s270233.storages (id, factory_id, sausage_id, sausages_weight) VALUES (8, 1, 8, 499999);
+INSERT INTO s270233.storages (id, factory_id, sausage_id, sausages_weight) VALUES (1, 1, 1, 499997);
+INSERT INTO s270233.storages (id, factory_id, sausage_id, sausages_weight) VALUES (2, 1, 2, 499997);
+INSERT INTO s270233.storages (id, factory_id, sausage_id, sausages_weight) VALUES (3, 1, 3, 499997);
+INSERT INTO s270233.storages (id, factory_id, sausage_id, sausages_weight) VALUES (4, 1, 4, 499997);
+INSERT INTO s270233.storages (id, factory_id, sausage_id, sausages_weight) VALUES (11, 1, 11, 499999);
+INSERT INTO s270233.storages (id, factory_id, sausage_id, sausages_weight) VALUES (12, 1, 12, 499999);
+INSERT INTO s270233.storages (id, factory_id, sausage_id, sausages_weight) VALUES (10, 1, 10, 499999);
+INSERT INTO s270233.storages (id, factory_id, sausage_id, sausages_weight) VALUES (9, 1, 9, 499999);

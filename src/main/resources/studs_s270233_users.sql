@@ -1,0 +1,2 @@
+INSERT INTO s270233.users (id, password, username) VALUES (1, '$2a$12$ZDRtkUjZm98av6AOgRAgNuB72l4E77TK1R0oEVcgC.AUk9WmWVpqO', 'admin');
+INSERT INTO s270233.users (id, password, username) VALUES (2, '$2a$12$ZDRtkUjZm98av6AOgRAgNuB72l4E77TK1R0oEVcgC.AUk9WmWVpqO', 'man');

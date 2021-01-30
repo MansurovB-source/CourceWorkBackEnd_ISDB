@@ -1,0 +1,1 @@
+INSERT INTO s270233.factories (id, name, worker_num, location_id) VALUES (1, 'Великолукский Мясокомбинат', 501, 1);

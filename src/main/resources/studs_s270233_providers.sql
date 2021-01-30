@@ -1,0 +1,1 @@
+INSERT INTO s270233.providers (id, salary, delivery_place_id, factory_id, human_id, user_id) VALUES (1, 1000, 1, 1, 1, 2);
